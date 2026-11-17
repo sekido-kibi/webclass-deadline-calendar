@@ -1,0 +1,11 @@
+# パスワード・認証情報（絶対に上げない）
+.env
+credentials.json
+token.json
+
+# 実行ログ・ダウンロードしたCSV（学籍番号・点数を含む）
+logs/
+output/
+
+# 仮想環境
+venv/
