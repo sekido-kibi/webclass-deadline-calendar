@@ -9,3 +9,6 @@ output/
 
 # 仮想環境
 venv/
+
+# Pythonの一時ファイル
+__pycache__/
